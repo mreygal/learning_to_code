@@ -1,4 +1,4 @@
-# This program creates a pyramidin the style of CS50's pset
+# This program creates a pyramid in the style of CS50's pset
 
 
 def pyramid_creator(height):
