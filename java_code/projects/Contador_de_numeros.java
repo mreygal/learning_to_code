@@ -3,7 +3,7 @@
  * NOTA: El programa funciona, aunque es enrevesado. No tengo paciencia
  * ni tiempo para escribirlo de nuevo. Sorry, WAY too many comments...
  *
- * Hecho por mreygal para ASIR.
+ * Hecho por mreygal para ASIR. (test)
  */
 
 package examples;
