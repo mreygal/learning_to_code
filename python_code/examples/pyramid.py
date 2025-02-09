@@ -2,10 +2,10 @@
 
 
 def pyramid_creator(height):
-    for i in range(height + 1):
+    for i in range(1, height + 1):
         space_1 = " " * (height - i)
         hashes = "#" * i
-        space_2 = " "
+        space_2 = "  "
         print(space_1 + hashes + space_2 + hashes)
 
 
